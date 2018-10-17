@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "585D9D7E-0BF5-4D69-8916-F627B693BFEB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B25E5C07-3BCA-4788-927C-939127F40CBD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5C32A521-AE48-4292-A1C5-EBB106BCC69F",
+    "height": 51,
+    "width": 317,
+    "x": 29,
+    "y": 334
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom/username",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CE5B8AD7-71BA-493C-BE15-69BEFC9E82CD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CDE3A5FA-E9B4-464F-83F6-AD4CC10F58A0",
+  "verticalSpacing": 0
+}

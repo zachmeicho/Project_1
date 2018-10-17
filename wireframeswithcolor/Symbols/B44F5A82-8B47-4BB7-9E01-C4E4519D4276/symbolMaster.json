@@ -1,0 +1,105 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7A7BF2E7-EA5F-4BE1-8418-1253A26509B8",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1302,
+  "do_objectID": "B44F5A82-8B47-4BB7-9E01-C4E4519D4276",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B2B47C37-41BF-45D5-8968-D17D7E9BADFE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "12E4382D-C5B5-4363-AB7C-7A8FE9EAFB87",
+    "height": 667,
+    "width": 375,
+    "x": 1038,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A8B9A747-586D-4F27-9860-9B5348FAA38D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C1D5ABB7-6359-4B55-A9BD-EB993FC4FB3B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "027F04DB-9C93-4DCD-AF73-B390B378DB2A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "507C7E96-90DA-4096-B39B-E3EFB096B0A5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "56FBE48C-D74F-4265-91AF-783F7B7D52F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "585D9D7E-0BF5-4D69-8916-F627B693BFEB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5C927D18-5466-405D-A1C0-F92288A1FAD8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "08584F24-AFAB-47D2-8006-795074F00A99"
+    }
+  ],
+  "name": "template/newaccount",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0BE809ED-9D42-4C89-9668-62C742B8E56D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4D6BF0B6-849F-4E49-8484-5F4F12180BAD",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "67EE911F-74AB-4C07-9323-1BF2AD234F33",
+    "guides": [
+    ]
+  }
+}

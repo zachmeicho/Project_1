@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "027F04DB-9C93-4DCD-AF73-B390B378DB2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "47119A51-29C9-450C-A1EC-92E3539A2D74",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "20EC5861-E52F-47B4-98E2-2F78939E0DF8",
+    "height": 51,
+    "width": 110,
+    "x": 133,
+    "y": 581
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom/submit",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A57B57CB-AF1F-4722-B669-09D336295A58",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "42D6589A-AB0B-47C2-B444-3E1547A4B159",
+  "verticalSpacing": 0
+}

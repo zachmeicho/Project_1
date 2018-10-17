@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "08584F24-AFAB-47D2-8006-795074F00A99",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "836A8488-ACAF-4BA9-9CF6-719D26FFA802",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7006CA83-D242-47D2-B762-465F3F64753C",
+    "height": 138,
+    "width": 138,
+    "x": 119,
+    "y": 41
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom/logo",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "84E96451-AF38-458D-95B8-6A893DF7FAB7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2CBF6E91-EEFF-4725-9408-CF9068388D20",
+  "verticalSpacing": 0
+}

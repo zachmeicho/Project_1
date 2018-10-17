@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "18445DC5-1913-4B4F-BA4F-E273B54DFC07",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "15B11B24-3094-4594-B8F5-5D5CB54415BB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "76D553A8-870E-48CB-8603-D476142CDB9E",
+    "height": 667,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "template/loginpage",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "50FB9217-388C-4682-A1D0-40A677B6E153",
+      "overrideName": "0BEA910C-EB03-4DA0-9A21-69E2936433AB_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E00B8951-9E6A-4EF7-B86E-D756698955C0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FE89B7A2-978D-4C33-B9F0-275BDA8A195E",
+  "verticalSpacing": 0
+}

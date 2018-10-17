@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "ADADA740-3B85-4D48-9E55-F7F761091894",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D4ECBB2F-69E6-4C28-88FE-CDE0FCF6705E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1951EA45-FCB5-4ECE-B164-BFC5097CC617",
+    "height": 667,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "template/loginpage",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3B587095-FCDC-4E70-AAA0-B210D4FDC54A",
+      "overrideName": "0BEA910C-EB03-4DA0-9A21-69E2936433AB/7882CA9A-01D1-4140-B3D4-772C1C7C45F7_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7DF90D95-5CB4-48F6-AA64-D26C50ADF2F6",
+      "overrideName": "068EBA97-4425-4640-AD9B-40DE15DF4321/EFFB1469-E3F2-4E3D-88FE-0932D86462A2_stringValue",
+      "value": "Email"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "77C22738-51F8-412D-A16E-E7FB7FA7E882",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FE89B7A2-978D-4C33-B9F0-275BDA8A195E",
+  "verticalSpacing": 0
+}

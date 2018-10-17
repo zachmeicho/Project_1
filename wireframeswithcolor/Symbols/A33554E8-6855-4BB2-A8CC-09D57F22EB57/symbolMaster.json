@@ -1,0 +1,95 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 174,
+  "do_objectID": "A33554E8-6855-4BB2-A8CC-09D57F22EB57",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 1038,
+    "y": 767
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "805357BF-29EF-4603-B487-6FBB946994C2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0BEA910C-EB03-4DA0-9A21-69E2936433AB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "61647F30-A4DD-4173-A91D-28E9320E53AC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "068EBA97-4425-4640-AD9B-40DE15DF4321"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D3BF04D1-1DE2-4945-93CD-0F2C6390B115"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5546237B-5F8B-4501-8480-FD37FA247D1A"
+    }
+  ],
+  "name": "template/loginpage",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FE89B7A2-978D-4C33-B9F0-275BDA8A195E",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

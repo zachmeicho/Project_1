@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "507C7E96-90DA-4096-B39B-E3EFB096B0A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6220FC8D-90DD-4A05-898D-095F1F2BF884",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1E15CAE2-378B-40F4-A0E1-9B5A3A2AC4BA",
+    "height": 51,
+    "width": 317,
+    "x": 29,
+    "y": 492
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom/confirmpassword",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E6AFF0FC-6B84-4A81-82A6-A097FB908291",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CDE3A5FA-E9B4-464F-83F6-AD4CC10F58A0",
+  "verticalSpacing": 0
+}

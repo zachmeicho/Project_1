@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "77E5E5AD-1399-48FC-84BA-05C6A7C4C277",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D5FDC1B3-5CF9-4D71-A633-C42A101C7885",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9CC9516F-292D-4760-8EB9-C9BFD494AE9C",
+    "height": 667,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "template/newaccount",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A1117CF6-15FD-4406-BC5A-1F03A67DF7A2",
+      "overrideName": "585D9D7E-0BF5-4D69-8916-F627B693BFEB/EFFB1469-E3F2-4E3D-88FE-0932D86462A2_stringValue",
+      "value": "Email"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AB224BC2-9F4D-421D-8F21-297CD44515CC",
+      "overrideName": "507C7E96-90DA-4096-B39B-E3EFB096B0A5/EFFB1469-E3F2-4E3D-88FE-0932D86462A2_stringValue",
+      "value": "Confirm Password"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "076A63A1-40F0-4C64-914F-F07C609413CE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4D6BF0B6-849F-4E49-8484-5F4F12180BAD",
+  "verticalSpacing": 0
+}
